@@ -1,0 +1,11 @@
+.footer__text {
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+.copyright {
+  font-size: 1.5rem;
+  color: inherit;
+  text-align: center;
+  padding: 1rem 0rem;
+}
